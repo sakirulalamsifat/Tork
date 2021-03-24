@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Tork/static/css/main.14ac1abf.chunk.css",
+    "main.js": "/Tork/static/js/main.80482551.chunk.js",
+    "main.js.map": "/Tork/static/js/main.80482551.chunk.js.map",
+    "runtime-main.js": "/Tork/static/js/runtime-main.d9a85c38.js",
+    "runtime-main.js.map": "/Tork/static/js/runtime-main.d9a85c38.js.map",
+    "static/js/2.67d11b67.chunk.js": "/Tork/static/js/2.67d11b67.chunk.js",
+    "static/js/2.67d11b67.chunk.js.map": "/Tork/static/js/2.67d11b67.chunk.js.map",
+    "static/js/3.7ee3b143.chunk.js": "/Tork/static/js/3.7ee3b143.chunk.js",
+    "static/js/3.7ee3b143.chunk.js.map": "/Tork/static/js/3.7ee3b143.chunk.js.map",
+    "index.html": "/Tork/index.html",
+    "static/css/main.14ac1abf.chunk.css.map": "/Tork/static/css/main.14ac1abf.chunk.css.map",
+    "static/js/2.67d11b67.chunk.js.LICENSE.txt": "/Tork/static/js/2.67d11b67.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d9a85c38.js",
+    "static/js/2.67d11b67.chunk.js",
+    "static/css/main.14ac1abf.chunk.css",
+    "static/js/main.80482551.chunk.js"
+  ]
+}
