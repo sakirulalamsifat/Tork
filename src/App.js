@@ -27,7 +27,7 @@ function App() {
   }, [])
   return (
     <div className='App'>
-      <BrowserRouter>
+      <BrowserRouter basename={process.env.PUBLIC_URL}>
         <Switch>
           <Route path='/' component={() => <PostData data={data} />} exact />
           <Route path='/get' component={() => <GetData post={post} />} exact />
